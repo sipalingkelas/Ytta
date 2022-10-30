@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Yushino V2</h1>
 
-## Note!! Scan Pake Script Md Yang Lain Buat Dapetin SessionNya/ KLIK LINK [![QR-MAIN](https://www.mediafire.com/file/9qg8oqv5y57tlu7/Qr-main.zip/file?dkey=ioe65rdytm4&r=1922)
+## Note!! Scan Pake Script Md Yang Lain Buat Dapetin SessionNya/ KLIK LINK [here](https://www.mediafire.com/file/9qg8oqv5y57tlu7/Qr-main.zip/file?dkey=ioe65rdytm4&r=1922)
 
 
 [![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283838186170) 
